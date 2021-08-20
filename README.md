@@ -1,3 +1,13 @@
+# Set up list
+
+- [ ] setup global state management. 
+- [X] Trigger Marloes notifications
+- [ ] test marloes notifications
+- [ ] test marloes notifications
+- [ ] implement example of react-hook-form package
+- [ ] implement way of working with the api and handling with server state
+- [ ] implement relative routes. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
