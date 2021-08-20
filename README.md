@@ -3,6 +3,7 @@
 - [ ] setup global state management. 
 - [X] Trigger Marloes notifications
 - [ ] test marloes notifications
+- [ ] test marloes notifications
 - [ ] implement example of react-hook-form package
 - [ ] implement way of working with the api and handling with server state
 - [ ] implement relative routes. 
