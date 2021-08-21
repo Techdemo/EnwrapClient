@@ -3,6 +3,7 @@ import { Switch, Route, withRouter } from 'react-router-dom';
 
 const Prime = lazy(() => import('./modules/Prime'));
 const ExampleForm = lazy(() => import('./modules/ExampleForm'));
+const Login = lazy(() => import('./pages/Login'))
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
         <Switch>
           <Route path="/" component={Prime} exact />
           <Route path="/form" component={ExampleForm} exact />
+          <Route path="/login" component={Login} exact />
         </Switch>
       </Suspense>
     </main>
